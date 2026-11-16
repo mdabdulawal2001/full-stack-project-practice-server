@@ -19,7 +19,7 @@ app.get("/", (req, res) => {
 
 // Server start
 app.listen(PORT, () => {
-  console.log(`Server is running on port: ${PORT}`);
+  console.log(`SERVER IS RUNNING PORT: ${PORT}`);
 });
 
 // VERCEL EXPORT
